@@ -1,6 +1,6 @@
 const Card = () => {
     return <>
-      This is a card
+      <img src="" alt="" />
       
     </>
   }
